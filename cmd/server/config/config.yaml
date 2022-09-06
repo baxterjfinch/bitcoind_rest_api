@@ -1,0 +1,4 @@
+ServicePort: "10000"
+RPCHost:     "192.168.1.16"
+RPCPort:     "3333"
+RPCUser:     "bitcoin"
